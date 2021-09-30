@@ -81,10 +81,10 @@ function populate() {
 
 var questions = [
 	new Question("Which House did Harry Potter belong to?", ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"], "Gryffindor"),
-	new Question("Who was the secret keeper of James Poteer's house?", ["Sirius Black", "Remus Lupin", "Peter Pettigrew", "Prof. McGonagall"], "Peter Pettigrew"),
+	new Question("Who was the secret keeper of James Potter's house?", ["Sirius Black", "Remus Lupin", "Peter Pettigrew", "Prof. McGonagall"], "Peter Pettigrew"),
 	new Question("What was the patronus of Hermione Granger?", ["beaver", "otter", "ferret", "deer"], "otter"),
 	new Question("Parvati and Padma Patil were in which houses respectively?", ["Gryffindor, Ravenclaw", "Gryffindor, Gryffindor", "Ravenclaw, Hufflepuff", "Gryffindor, Hufflepuff"], "Gryffindor, Ravenclaw"),
- 	new Question("Who won the Quidditch Cup in 1st Year?", ["Slytherin", "Ravenclaw", "Hufflecup", "Gryffindor"], "Gryffindor"),
+ 	new Question("Who won the Quidditch Cup in 1st Year?", ["Slytherin", "Ravenclaw", "Hufflepuff", "Gryffindor"], "Gryffindor"),
     new Question("What was the name of Blacks' House house elf?", ["Kreacher", "Dobby", "Minnie", "Winky"], "Kreacher"),
 ];
 
